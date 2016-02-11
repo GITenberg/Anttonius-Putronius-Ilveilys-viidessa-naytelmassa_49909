@@ -1,0 +1,33 @@
+_repo: Anttonius-Putronius-Ilveilys-viidessa-naytelmassa_49909
+contributor:
+  translator:
+    agent_name: Hannikainen, Pietari
+    birthdate: 1813
+    deathdate: 1899
+    gutenberg_agent_id: '5858'
+    url: http://www.gutenberg.org/2009/agents/5858
+    wikipedia: http://fi.wikipedia.org/wiki/Pietari_Hannikainen
+creator:
+  author:
+    agent_name: Holberg, Ludvig
+    aliases:
+    - Holberg, Baron Ludvig
+    - Holberg, Johan Ludvig
+    birthdate: 1684
+    deathdate: 1754
+    gutenberg_agent_id: '1863'
+    url: http://www.gutenberg.org/2009/agents/1863
+    wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
+description: ''
+gutenberg_issued: '2015-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '49909'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Anttonius Putronius
+
+  Ilveilys viidessä näytelmässä'
+url: http://www.gutenberg.org/ebooks/49909
